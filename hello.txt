@@ -1,1 +1,3 @@
 Welcome to RISE
+
+Git is Fun! -PW
